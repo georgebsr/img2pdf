@@ -1,1 +1,0 @@
-set DEBUG=img2pdf:* & npm run devstart
