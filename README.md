@@ -77,5 +77,6 @@ npm start
 * express-session: Session middleware.
 * [nodemon](https://nodemon.io): Development server with auto-restart.
 
-### Contributing
-Contributions are welcome! Fork the repository and submit a pull request.
+### FreeCodeCamp.com
+Did that project with a freeCodeCamp course.
+
